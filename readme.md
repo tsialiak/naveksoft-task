@@ -1,8 +1,8 @@
 # Описание выполненого задания
 
-Сервер Clickhouse - Docker
-Клиент Clickhouse - Python (Jupyter) и DBeaver
-Визуализация - Power BI
+Сервер Clickhouse - Docker   
+Клиент Clickhouse - Python (Jupyter) и DBeaver   
+Визуализация - Power BI   
 
 # Подготовка тестовой среды
 
@@ -161,4 +161,4 @@ event_type = 'purchase'
 # Визуализация запросов
 
 Все запросы из анализа были визуализированы в Power BI. 
-![Визуализация](report/report.png)
+![Визуализация](report/image.png)
